@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px
+}
+
+#inicio{
+    height: 100px;
+    background-color: red;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 250%;
+    font-family: Calibri;
+}
+
+#final{
+    height: 125 px;
+    background-color: red;
+    clear: both;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 200%;
+}
+
+a:visited {
+    color:orange;
+}
